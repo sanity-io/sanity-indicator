@@ -1,3 +1,5 @@
 # Powered by Sanity Chrome Extension
 
-![](screenshot.png)
+A chrome extension that displays the Sanity logo on sites powered by Sanity
+
+![](./screenshot.jpg)
