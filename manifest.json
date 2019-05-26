@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Powered by Sanity",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description":
     "An indicator that displays whether a page is powered by sanity or not.",
   "homepage_url": "https://github.com/sanity-io/sanity-indicator",
